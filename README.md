@@ -104,3 +104,7 @@ Run each service in its own terminal:
 - `npm run build` - build production frontend
 - `npm run preview` - preview the built frontend
 - `npm run lint` - run ESLint
+
+## Demo
+
+[Link of working demo](https://drive.google.com/file/d/17NJW1Zpn8_jA_OCfddQA6m1ZnOZxoQoi/view?usp=sharing)
