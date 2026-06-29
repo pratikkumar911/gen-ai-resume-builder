@@ -2,6 +2,8 @@
 
 ## Demo
 
+<img width="1919" height="1025" alt="Screenshot 2026-06-29 153319" src="https://github.com/user-attachments/assets/1c251ba7-f2f7-43f5-8f16-39d6a13a051b" />
+
 [Link of working demo](https://drive.google.com/file/d/17NJW1Zpn8_jA_OCfddQA6m1ZnOZxoQoi/view?usp=sharing)
 
 This repository contains a React frontend and an Express backend for an interview report generator.
